@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tinkoff</string>
+    <string name="failed_message">Something is going wrong</string>
+</resources>
